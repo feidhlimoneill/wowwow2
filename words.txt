@@ -1,0 +1,7 @@
+test
+man
+dog
+friend
+trial
+car
+sorted
