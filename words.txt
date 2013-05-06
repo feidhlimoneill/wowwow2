@@ -1,5 +1,9 @@
 test
 man
+timeout
+art
+Arty
+Sinful
 dog
 friend
 trial
